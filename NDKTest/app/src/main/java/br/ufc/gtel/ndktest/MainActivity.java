@@ -7,7 +7,7 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
-    public native int calculator_ndk_sum(int num1, int num2);
+    public native int calculator_ndk_test(int num1, int num2);
 
     static{
         System.loadLibrary("ndktest");
@@ -16,6 +16,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        ((TextView)findViewById(R.id.hello_text)).setText(calculator_ndk_sum(10, 20));
+        ((TextView)findViewById(R.id.hello_text)).setText(calculator_ndk_test(10, 20));
     }
 }

@@ -13,7 +13,7 @@
 #include <fcntl.h>
 #include "calculator_ndk_imp.h"
 
-jint Java_br_ufc_gtel_ndktest_MainActivity_calculator_ndk_sum(JNIEnv* env, jobject obj, jint num1, jint num2)
+jint Java_br_ufc_gtel_ndktest_MainActivity_calculator_ndk_test(JNIEnv* env, jobject obj, jint num1, jint num2)
     {
         int nErr = 0;
         int *resp = 0;
