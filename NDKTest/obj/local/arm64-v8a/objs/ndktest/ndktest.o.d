@@ -64,11 +64,7 @@ C:/Users/Jacques/Documents/DB_Project/calculator/NDKTest//obj/local/arm64-v8a/ob
  C:/Qualcomm/Hexagon_SDK/2.0/tools/android-ndk-r10d/platforms/android-21/arch-arm64/usr/include/sys/ucontext.h \
  C:/Qualcomm/Hexagon_SDK/2.0/tools/android-ndk-r10d/platforms/android-21/arch-arm64/usr/include/sys/user.h \
  C:/Qualcomm/Hexagon_SDK/2.0/tools/android-ndk-r10d/platforms/android-21/arch-arm64/usr/include/sys/sysconf.h \
- C:/Qualcomm/Hexagon_SDK/2.0/tools/android-ndk-r10d/platforms/android-21/arch-arm64/usr/include/pathconf.h \
- C:/Users/Jacques/Documents/DB_Project/calculator/NDKTest//jni/calculator_ndk_imp.h \
- C:/Users/Jacques/Documents/DB_Project/calculator/NDKTest//jni/HAP_farf.h \
- C:/Users/Jacques/Documents/DB_Project/calculator/NDKTest//jni/HAP_debug.h \
- C:/Users/Jacques/Documents/DB_Project/calculator/NDKTest//jni/calculator_ndk.h
+ C:/Qualcomm/Hexagon_SDK/2.0/tools/android-ndk-r10d/platforms/android-21/arch-arm64/usr/include/pathconf.h
 
 C:/Qualcomm/Hexagon_SDK/2.0/tools/android-ndk-r10d/platforms/android-21/arch-arm64/usr/include/jni.h:
 
@@ -199,11 +195,3 @@ C:/Qualcomm/Hexagon_SDK/2.0/tools/android-ndk-r10d/platforms/android-21/arch-arm
 C:/Qualcomm/Hexagon_SDK/2.0/tools/android-ndk-r10d/platforms/android-21/arch-arm64/usr/include/sys/sysconf.h:
 
 C:/Qualcomm/Hexagon_SDK/2.0/tools/android-ndk-r10d/platforms/android-21/arch-arm64/usr/include/pathconf.h:
-
-C:/Users/Jacques/Documents/DB_Project/calculator/NDKTest//jni/calculator_ndk_imp.h:
-
-C:/Users/Jacques/Documents/DB_Project/calculator/NDKTest//jni/HAP_farf.h:
-
-C:/Users/Jacques/Documents/DB_Project/calculator/NDKTest//jni/HAP_debug.h:
-
-C:/Users/Jacques/Documents/DB_Project/calculator/NDKTest//jni/calculator_ndk.h:

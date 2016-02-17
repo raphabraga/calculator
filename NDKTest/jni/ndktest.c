@@ -4,16 +4,14 @@
 
 #include <jni.h>
 #include <string.h>
-//#include "ndktest.h"
 #include "rpcmem.h"
 #include <stdlib.h>
 #include <stdio.h>
 #include <sys/types.h>
 #include <sys/stat.h>
 #include <fcntl.h>
-#include "calculator_ndk_imp.h"
 
-jint Java_br_ufc_gtel_ndktest_MainActivity_calculator_ndk_test(JNIEnv* env, jobject obj, jint num1, jint num2)
+jint Java_br_ufc_gtel_ndktest_MainActivity_calculatorNDKtest(JNIEnv* env, jobject obj, jint num1, jint num2)
     {
         int nErr = 0;
         int *resp = 0;
